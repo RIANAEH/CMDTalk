@@ -12,8 +12,8 @@
 - 이모티콘 기능 구현
 
 ## 📷 Demo Screen Shot
-- Client1
+### Client1
 ![image](https://user-images.githubusercontent.com/45311765/127265183-ad0951bb-a293-41bb-b275-dbd54527b57f.png)
-- Client2
+### Client2
 ![image](https://user-images.githubusercontent.com/45311765/127265218-a8669c5d-87ce-4978-b0c7-1b7002f57306.png)
 
