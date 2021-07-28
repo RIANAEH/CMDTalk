@@ -3,10 +3,10 @@
 
 > 네트워크 프로그래밍 (2019) 기말 프로젝트
 
-## Techs
+## 💻 Techs
 ### SSLSocket
 - Server : SSLServerSocket + SSLServerSocketFactory
 - Client : SSLSocket + MyFactory(Customized Factory)
 
 ### RMI
-이모티콘 기능 구현
+- 이모티콘 기능 구현
